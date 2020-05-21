@@ -1,0 +1,1 @@
+FROM golang@sha256:1e7d97b589e4c0e782b72878f37dca0abceca334dfed6892e631a2ec5e2d75d4
